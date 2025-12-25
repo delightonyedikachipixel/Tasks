@@ -10,7 +10,7 @@ public class CountLetters {
 
     public static int countLetters(String s) {
         int count = 0;
-        for (int i = 0; i < s.length(); i++) {
+        for (int count = 0; count < count.length(); count++) {
             if (Character.isLetter(s.charAt(i))) {
                 count++;
             }
